@@ -86,9 +86,9 @@
 
 ## 📌 What I’m Currently Working On
 
-- Expanding analytics portfolio projects
-- Building reproducible, GitHub-ready data pipelines
-- Improving data storytelling & visualization
+- Designing analytics projects centered on time-series trends, KPIs, and risk signals  
+- Building reproducible data pipelines with Python, SQL, Snowflake, and Databricks  
+- Delivering clear, decision-focused insights through structured data storytelling
 
 ---
 
