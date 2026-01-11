@@ -39,4 +39,39 @@
 
 ---
 
-### 🤖 AI Use Case Intake & Por
+### 🤖 AI Use Case Intake & Portfolio Optimization *(In Progress)*
+**SQL | Snowflake | Excel | Power BI**
+
+- Designed AI intake scoring framework  
+- Evaluated ROI, feasibility, and risk  
+- Built decision-ready analytics dashboards  
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40"/>
+</p>
+
+---
+
+## 📌 What I’m Currently Working On
+
+- Expanding analytics portfolio projects
+- Building reproducible, GitHub-ready data pipelines
+- Improving data storytelling & visualization
+
+---
+
+⭐ If you find my work interesting, feel free to explore my repositories or connect with me.
