@@ -8,7 +8,7 @@
 - 📊 Experienced in **SQL, Python, Power BI, Snowflake, Databricks**
 - 📈 Interested in **time-series analytics, forecasting, and risk signals**
 - 🧠 I focus on **explainable analytics, not black-box models**
-- 📫 Reach me at **praneeth.gudla@gmail.com**
+- 📫 Reach me at **praneethshivasaig@gmail.com**
 
 ---
 
